@@ -10,4 +10,4 @@ https://www.npmjs.com/package/react-native-printer
 ### 3. Use custom font
 https://docs.expo.io/versions/latest/guides/using-custom-fonts
 
-### 4. center images
+### 4. center images / randomize where image is, or even make it mobile inside its panel (to add fun)
